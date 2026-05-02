@@ -1,0 +1,22 @@
+# Archivos del sistema macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Caché y compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales (por si alguna vez creas uno dentro de la carpeta)
+venv/
+env/
+.env/
+
+# Archivos de contraseñas y variables de entorno
+.env
+.secretos
+
+# Bases de datos locales (opcional, pero recomendado si no quieres subir tu BD)
+*.db
+*.sqlite3  
